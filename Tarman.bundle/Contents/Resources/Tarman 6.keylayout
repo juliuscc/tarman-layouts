@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 3.4.2.314 on 2020-03-02 at 20:05 (CET)-->
-<keyboard group="0" id="1702" name="Tarman 5" maxout="1">
+<keyboard group="0" id="12963" name="Tarman 6" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -47,7 +47,7 @@
             <key code="1" output="s"/>
             <key code="2" output="h"/>
             <key code="3" output="t"/>
-            <key code="4" output="j"/>
+            <key code="4" output="y"/>
             <key code="5" output="g"/>
             <key code="6" output="z"/>
             <key code="7" output="x"/>
@@ -156,7 +156,7 @@
             <key code="1" output="S"/>
             <key code="2" output="H"/>
             <key code="3" output="T"/>
-            <key code="4" output="J"/>
+            <key code="4" output="Y"/>
             <key code="5" output="G"/>
             <key code="6" output="Z"/>
             <key code="7" output="X"/>
@@ -1019,7 +1019,7 @@
             <when state="4" output="Ü"/>
         </action>
         <action id="12">
-            <when state="none" output="Y"/>
+            <when state="none" output="J"/>
             <when state="4" output="Ÿ"/>
         </action>
         <action id="13">
@@ -1064,7 +1064,7 @@
             <when state="4" output="ü"/>
         </action>
         <action id="19">
-            <when state="none" output="y"/>
+            <when state="none" output="j"/>
             <when state="4" output="ÿ"/>
         </action>
         <action id="2">

@@ -3,17 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.tarman2</string>
+	<string>org.sil.ukelele.keyboardlayout.tarman</string>
 	<key>CFBundleName</key>
 	<string>Tarman</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>2</string>
+	<key>KLInfo_Tarman 0</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman0</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_Tarman 1</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.tarman1</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman1</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -22,7 +31,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.tarman2</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman2</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -31,7 +40,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.tarman3</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman3</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -40,7 +49,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.tarman4</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman4</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
@@ -49,16 +58,16 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.tarman5</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman5</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-	<key>KLInfo_Workman</key>
+	<key>KLInfo_Tarman 6</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.tarman2.workman</string>
+		<string>org.sil.ukelele.keyboardlayout.tarman.tarman6</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
